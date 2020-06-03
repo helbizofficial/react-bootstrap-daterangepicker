@@ -2090,10 +2090,9 @@ boolbase@~1.0.0:
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
-bootstrap-daterangepicker@^2.1.30:
-  version "2.1.30"
-  resolved "https://registry.yarnpkg.com/bootstrap-daterangepicker/-/bootstrap-daterangepicker-2.1.30.tgz#f893dbfff5a4d7dfaab75460e8ea6969bb89689a"
-  integrity sha1-+JPb//Wk19+qt1Rg6OppabuJaJo=
+"bootstrap-daterangepicker@https://github.com/miroosama/daterangepicker.git":
+  version "3.1.0"
+  resolved "https://github.com/miroosama/daterangepicker.git#30be75ed4dffa984176d65d9bc97d6931a79c63e"
   dependencies:
     jquery ">=1.10"
     moment "^2.9.0"
