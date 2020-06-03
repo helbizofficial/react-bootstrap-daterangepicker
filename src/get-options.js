@@ -31,6 +31,7 @@ export default () => {
     'timePicker',
     'timePicker24Hour',
     'timePickerIncrement',
-    'timePickerSeconds'
+    'timePickerSeconds',
+    'singleCalendar'
   ];
 };
