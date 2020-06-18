@@ -148,7 +148,7 @@ var DateRangePicker = function (_Component) {
     }
   }, {
     key: 'componentWillReceiveProps',
-    value: function componentWillReceiveProps(nextProps) {
+    value: function UNSAFE_componentWillReceiveProps(nextProps) {
       if (this.$picker) {
         var currentOptions = this.getOptionsFromProps();
         var nextOptions = this.getOptionsFromProps(nextProps);
