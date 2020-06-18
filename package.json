@@ -33,7 +33,6 @@
   },
   "license": "Apache-2.0",
   "peerDependencies": {
-    "bootstrap-daterangepicker": "*",
     "jquery": "*",
     "moment": "*",
     "prop-types": "*",
@@ -53,7 +52,6 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "bootstrap": "^3",
-    "bootstrap-daterangepicker": "https://github.com/miroosama/daterangepicker.git",
     "cheerio": "^0.22.0",
     "coveralls": "^3.0.0",
     "enzyme": "^3.3.0",
@@ -88,5 +86,8 @@
     "selector",
     "datetime",
     "ui"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap-daterangepicker": "https://github.com/miroosama/daterangepicker.git"
+  }
 }
