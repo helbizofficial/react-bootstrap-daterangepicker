@@ -139,7 +139,8 @@ DateRangePicker.propTypes = {
   timePickerIncrement: PropTypes.number,
   timePicker24Hour: PropTypes.bool,
   timePickerSeconds: PropTypes.bool,
-  singleCalendar: PropTypes.bool
+  singleCalendar: PropTypes.bool,
+  isDarkMode: PropTypes.bool
 };
 
 export default DateRangePicker;

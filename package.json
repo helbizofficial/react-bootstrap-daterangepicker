@@ -88,6 +88,6 @@
     "ui"
   ],
   "dependencies": {
-    "bootstrap-daterangepicker": "https://github.com/miroosama/daterangepicker.git"
+    "bootstrap-daterangepicker": "https://github.com/helbizofficial/daterangepicker.git#impr/dark-mode"
   }
 }
